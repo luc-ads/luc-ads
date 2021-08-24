@@ -1,7 +1,7 @@
 < ## Opa, eu sou o Lucas SIlva />
 
 - 💻 Atualmente estou atuando com front-end para Mobile Android.
-- 📚 EStudando JAVA e Kotlin.
+- 📚 Estudando JAVA e Kotlin.
 - 🔎 Contate-me no email: lucaspereira88633@gmail.com OU Linkedin: https://www.linkedin.com/in/lucas-pereira-8a4985146/
 
   ##
