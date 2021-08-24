@@ -4,6 +4,8 @@
 - 📚 EStudando JAVA e Kotlin.
 - 🔎 Contate-me no email: lucaspereira88633@gmail.com OU Linkedin: https://www.linkedin.com/in/lucas-pereira-8a4985146/
 
+  ##
+
  <div>
   <a href="https://github.com/luc-ads">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
