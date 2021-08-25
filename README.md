@@ -1,4 +1,4 @@
-< ## Opa, eu sou o Lucas SIlva />
+< ## Opa, eu sou o Lucas Silva />
 
 - 💻 Atualmente estou atuando com front-end para Mobile Android.
 - 📚 Estudando JAVA e Kotlin.
