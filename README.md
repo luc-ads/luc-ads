@@ -1,6 +1,6 @@
 < ## Opa, eu sou o Lucas Silva />
 
-- 💻 Atualmente estou atuando com front-end para Mobile Android.
+- 💻 Atualmente estou atuando em front-end para Mobile Android.
 - 📚 Estudando JAVA e Kotlin.
 - 🔎 Contate-me no email: lucaspereira88633@gmail.com OU Linkedin: https://www.linkedin.com/in/lucas-pereira-8a4985146/
 
